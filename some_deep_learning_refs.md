@@ -1,0 +1,20 @@
+- vedio
+    - https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+    - https://www.bilibili.com/video/BV1Y7411d7Ys/?p=1&vd_source=99b233cc6188faa67165f9ff3e0b29c5
+- github
+    - https://github.com/yandexdataschool/nlp_course
+    - https://github.com/fengdu78/deeplearning_ai_books
+    - https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+    - https://github.com/sindresorhus/awesome
+    - https://github.com/keon/awesome-nlp
+    - https://github.com/d2l-ai/d2l-zh
+    - https://github.com/d2l-ai/d2l-en
+    - https://github.com/d2l-ai/berkeley-stat-157/tree/master/slides-zh
+- open-source book
+    - https://nndl.github.io/
+    - https://zh.d2l.ai/index.html
+    - https://tangshusen.me/Dive-into-DL-PyTorch/#/
+    - https://www.huaxiaozhuan.com/
+    - http://www.ai-start.com/dl2017/
+    - https://datawhalechina.github.io/learn-nlp-with-transformers/#/
+    - https://nlp.seas.harvard.edu/annotated-transformer/
