@@ -1,0 +1,8 @@
+- DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning
+- From Sparse to Soft Mixtures of Experts
+- OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER
+- A REVIEW OF SPARSE EXPERT MODELS IN DEEP LEARNING
+- ST-MOE: DESIGNING STABLE AND TRANSFERABLE SPARSE EXPERT MODELS
+- Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
+- GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding
+- EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate
